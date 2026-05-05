@@ -6,7 +6,7 @@ manufacturer = "Terence Ng"
 serial_number = "vial:f64c2b3c"
 chip = "nrf52840"
 
-[rmk]1
+[rmk]
 
 [host]
 unlock_keys = []
